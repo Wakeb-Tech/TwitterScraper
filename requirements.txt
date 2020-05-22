@@ -1,0 +1,5 @@
+Flask-RESTful
+flask
+pyquery
+urllib3
+pandas
